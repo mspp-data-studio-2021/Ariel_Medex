@@ -6,3 +6,4 @@ matplotlib.pyplot
 seaborn
 numpy
 sickit-learn
+statsmodel
