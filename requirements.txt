@@ -2,8 +2,8 @@ ipykernel
 jupyterlab
 pandas
 matplotlib
-matplotlib.pyplot
 seaborn
 numpy
 scikit-learn
-statsmodel
+scipy
+statsmodels==0.10.2
