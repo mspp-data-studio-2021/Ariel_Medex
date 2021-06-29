@@ -5,5 +5,5 @@ matplotlib
 matplotlib.pyplot
 seaborn
 numpy
-sickit-learn
+scikit-learn
 statsmodel
