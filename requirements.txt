@@ -8,4 +8,5 @@ scikit-learn
 scipy
 statsmodels==0.10.2
 PandaSurvey
+weightedcalcs
 
