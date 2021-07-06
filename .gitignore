@@ -1,9 +1,8 @@
 
 .DS_Store
 .ipynb_checkpoints/
-ACS Query Attempt.ipynb
 Test-notebook.ipynb
-Notebook for 6-28 Class.ipynb
 ACS Query Attempt.ipynb
-Notebook for 6-28 Class.ipynb
-ACS Query Attempt.ipynb
+git rm --cached  <file>
+ACS Table Data.ipynb
+git rm --cached  <file>
