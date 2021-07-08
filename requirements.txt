@@ -11,3 +11,5 @@ PandaSurvey
 weightedcalcs
 geopandas
 descartes
+pysal
+os
