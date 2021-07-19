@@ -7,7 +7,7 @@ Then clone this project repository, and open a command prompt/terminal window an
 To access your API key without risking it being published on GitHub this project uses the dotenv package. You need to edit the file .env_sample and add your key, then rename the file to .env.
 
 Now you can create a virtual environment for python. On Mac OS you can use the following steps:
-\\\
+\\
 pip3 install virtualenv # if you don't already have this installed
 virtualenv env
 source env/bin/activate
@@ -15,7 +15,7 @@ which python # confirm you are using the virtual env
 pip3 install -r requirements.txt
 python -m ipykernel install --user --name=env
 jupyter notebook
-\\\
+\\
 
 # Replicating the Analysis
 To recreate all the results you will need to run all of the numbered scripts and notebooks in [`/code`](/code):
