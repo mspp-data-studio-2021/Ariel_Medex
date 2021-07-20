@@ -44,4 +44,4 @@ All data from IPUMS USA:
     Steven Ruggles, Sarah Flood, Sophia Foster, Ronald Goeken, Jose Pacas, Megan Schouweiler and Matthew Sobek. IPUMS USA: Version 11.0 [dataset]. Minneapolis, MN: IPUMS, 2021. https://doi.org/10.18128/D010.V11.0
 
 
-This project was created using ['GeoPandas'](https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac) and ['weightedcalcs'](https://github.com/jsvine/weightedcalcs)
+This project was created using [`GeoPandas`](https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac) and [`weightedcalcs`](https://github.com/jsvine/weightedcalcs)
